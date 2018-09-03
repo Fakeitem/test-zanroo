@@ -11,5 +11,6 @@ This is [demo](https://sittinon-9c7cc.firebaseapp.com/)
 First, download this project:
 
 ```
-npm start
+$ npm install
+$ npm start
 ```
